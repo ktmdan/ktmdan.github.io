@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on KTM Dan Blog</title>
+    <link>https://example.com/projects/</link>
+    <description>Recent content in Projects on KTM Dan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monolith Standalone</title>
+      <link>https://example.com/projects/python/monolithstandalone/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://example.com/projects/python/monolithstandalone/</guid>
+      <description>This project is a python editor that stores it&#39;s data in Sqllite3.</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://example.com/projects/test/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://example.com/projects/test/</guid>
+      <description>List of projects</description>
+    </item>
+    
+  </channel>
+</rss>
